@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.INFO)
 
 config = json_config.connect('config/config.json')
 
-with open('tgMusicBot-main\config\messages.json', 'r', encoding='utf-8') as f:
+with open('config/messages.json', 'r', encoding='utf-8') as f:
     mes = json.load(f)
     f.close()
 sc = Soundcloud()
