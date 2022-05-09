@@ -1,0 +1,8 @@
+aiohttp==3.7.4.post0
+requests==2.22.0
+json_config==2.0.1
+future==0.18.2
+soundcloud_lib==0.5.4
+aiogram==2.15
+mysql_connector_repackaged==0.3.1
+sclib==1.0.0
